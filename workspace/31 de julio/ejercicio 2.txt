@@ -1,0 +1,13 @@
+
+EJERCICIO 2:
+https://talentotech.gov.co/portal/
+"scripts/loopBootstrap.min.js": "scripts/loopBootstrap.min.270951cca9ae9e4806e3.js",
+
+https://colorlib.com/
+* Bootstrap v3.4.1 (https://getbootstrap.com/)
+
+https://www.jackwatkins.co/
+.getFbeventsModules("SignalsFBEventsIWLBootStrapEvent")
+
+https://bitetoothpastebits.com/
+(a_ = a8 || (a8 = {})).EVENT_BUILD_BOOTSTRAP_ACK = "event_builder_bootstrap_ack",
